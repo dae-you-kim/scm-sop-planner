@@ -24,7 +24,7 @@
 * **Library:** Streamlit, Plotly (Gauge Chart & Interactive Dashboards)
 
 ### 5. 실행 화면 (Demo)
-
+![실행화면](./demo_2.png)
 > **[시나리오 분석 예시]**
 > * **상황:** 수주량이 공장 Capa를 20% 초과하여 납기 지연 위기 발생
 > * **시뮬레이션:** 주말 특근 2일 추가 투입 시, 부하율이 120% → 98%로 감소하여 자체 생산 가능함 판명.
